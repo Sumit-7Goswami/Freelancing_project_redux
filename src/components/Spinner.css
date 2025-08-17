@@ -1,0 +1,15 @@
+.spinner{
+width: 56px;
+height: 56px;
+border-radius: 50%;
+background: conic—gradient (#0000 10%, #000 10%);    
+—webkit—mask: radial—gradient(circle, #000 50%, #0000 51%);
+mask: radial—gradient(circle, #000 50%, #0000 51%);   
+animation: spinner—zp9dbg Is infinite linear;
+}
+
+@keyframes spinner—zp9dbg{
+to {
+transform: rotate(1turn) ;
+}
+}

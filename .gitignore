@@ -1,0 +1,5 @@
+# how to ignnore node modules
+# Node modules
+node_modules/
+
+build/
